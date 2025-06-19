@@ -12,6 +12,8 @@ A collection of Python utilities potentially useful for reproducing research pap
 
 一系列复现论文成果时可能用到的 python 小工具
 
+---
+
 ## 🔦 RPS4SH
 
 ### 🖐 用途
@@ -35,6 +37,8 @@ wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main/RPS4SH.py
 python downloadObjaverse.py
 ```
 
+---
+
 ## ⬇️ downloadObjaverse.py
 
 ### 🖐 用途
@@ -49,6 +53,8 @@ Stable download of the Objaverse dataset under poor network conditions
 ### 🚀 快速开始
 
 参见 downloadObjaverse.py [官方仓库](https://github.com/MRoldL001/downloadObjaverse/tree/main)
+
+---
 
 ## 🌳 flattenner
 
