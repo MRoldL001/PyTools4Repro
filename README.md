@@ -16,9 +16,6 @@ Extract 9-dimensional SH lighting coefficients from .rps files
 wget https://raw.githubusercontent.com/MRoldL001/RPS2SH/main/RPS4SH.py
 ```
 
-或点击[此处](https://raw.githubusercontent.com/MRoldL001/RPS2SH/main/RPS4SH.py
-)下载
-
 打开 `RPS4SH.py` ，修改 input_dir 和 input_dir 为实际路径
 
 ```bash
