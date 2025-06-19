@@ -8,11 +8,18 @@
 
 ---
 
-Extract 9-dimensional SH lighting coefficients from .rps files
+A collection of Python utilities potentially useful for reproducing research papers
+
+一系列复现论文成果时可能用到的 python 小工具
+
+## 🔦 RPS4SH
+
+### 🖐 用途
+Extract 9-dimensional SH lighting coefficients from .rps files 
 
 从 .rps 文件中提取 9 维 SH 光照系数
 
-## 🚀 快速开始
+### 🚀 快速使用
 
 ```bash
 wget https://raw.githubusercontent.com/MRoldL001/RPS2SH/main/RPS4SH.py
