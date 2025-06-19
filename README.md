@@ -56,7 +56,7 @@ Stable download of the Objaverse dataset under poor network conditions
 
 ---
 
-## 🌳 flattenner
+## 🌲 flattenner
 
 ### 🖐 用途
 Moves all files from subfolders to the root directory to flatten the folder structure
