@@ -52,7 +52,7 @@ Stable download of the Objaverse dataset under poor network conditions
 
 ### 🚀 快速开始
 
-参见 downloadObjaverse.py [官方仓库](https://github.com/MRoldL001/downloadObjaverse/tree/main)
+参见 downloadObjaverse.py [官方仓库](https://github.com/MRoldL001/downloadObjaverse)
 
 ---
 
