@@ -21,7 +21,7 @@ Extract 9-dimensional SH lighting coefficients from .rps files
 
 ### 📦 需额外安装的依赖
 
-`numpy`
+- `numpy`
 
 ### 🚀 快速开始
 
@@ -44,7 +44,7 @@ Stable download of the Objaverse dataset under poor network conditions
 
 ### 📦 需额外安装的依赖
 
-`objaverse`
+- `objaverse`
 
 ### 🚀 快速开始
 参见 downloadObjaverse.py [官方仓库](https://github.com/MRoldL001/downloadObjaverse/tree/main)
