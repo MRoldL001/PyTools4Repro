@@ -19,7 +19,7 @@ Extract 9-dimensional SH lighting coefficients from .rps files
 
 从 .rps 文件中提取 9 维 SH 光照系数
 
-### 🚀 快速使用
+### 🚀 快速开始
 
 ```bash
 wget https://raw.githubusercontent.com/MRoldL001/RPS2SH/main/RPS4SH.py
@@ -30,3 +30,13 @@ wget https://raw.githubusercontent.com/MRoldL001/RPS2SH/main/RPS4SH.py
 ```bash
 python downloadObjaverse.py
 ```
+
+## ⬇️ downloadObjaverse.py
+
+### 🖐 用途
+Stable download of the Objaverse dataset under poor network conditions
+
+在较差的网络环境下稳定下载 Objaverse 数据集
+
+### 🚀 快速开始
+参见 downloadObjaverse.py [官方仓库](https://github.com/MRoldL001/downloadObjaverse/tree/main)
