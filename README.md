@@ -21,7 +21,7 @@ Extract 9-dimensional SH lighting coefficients from .rps files
 
 ### 📦 需额外安装的依赖
 
-`objaverse`
+`numpy`
 
 ### 🚀 快速开始
 
