@@ -2,7 +2,7 @@ import os
 import shutil
 import sys
 
-def flatten_directory(root_dir, remove_empty_dirs=True):
+def flatten_directory(root_dir, remove_empty_dirs=False):
     if not os.path.isdir(root_dir):
         print(f"{root_dir} is not a valid directory path.")
         return
@@ -42,7 +42,7 @@ if __name__ == "__main__":
 
     root_directory = sys.argv[1]
     rm_dir = sys.argv[2]
-    if rm_dir == "normdir":
-        flatten_directory(root_directory, False)
+    if rm_dir == "-red":
+        flatten_directory(root_directory, True)
     else:
         flatten_directory(root_directory)
