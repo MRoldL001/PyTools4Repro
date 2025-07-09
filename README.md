@@ -31,10 +31,10 @@ Extract 9-dimensional SH lighting coefficients from .rps files
 wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main/RPS4SH.py
 ```
 
-打开 `RPS4SH.py` ，修改 input_dir 和 input_dir 为实际路径
+打开 `RPS4SH.py` ，修改 input_dir 和 output_dir 为实际路径
 
 ```bash
-python downloadObjaverse.py
+python RPS4SH.py
 ```
 
 ---
