@@ -73,3 +73,5 @@ Moves all files from subfolders to the root directory to flatten the folder stru
 wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main//flattenner.py
 python flatten.py <文件夹路径>
 ```
+
+或者，如果你不想移除空的子文件夹
