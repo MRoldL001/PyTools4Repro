@@ -74,4 +74,9 @@ wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main//flattenner.
 python flatten.py <文件夹路径>
 ```
 
-或者，如果你不想移除空的子文件夹
+或者，如果你想顺带移除空的子文件夹
+
+```bash
+wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main//flattenner.py
+python flatten.py <文件夹路径> -red   # red 指 remove empty dir
+```
