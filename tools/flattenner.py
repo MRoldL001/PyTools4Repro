@@ -41,4 +41,8 @@ if __name__ == "__main__":
         sys.exit(1)
 
     root_directory = sys.argv[1]
-    flatten_directory(root_directory)
+    rm_dir = sys.argv[2]
+    if rm_dir == "normdir":
+        flatten_directory(root_directory, False)
+    else:
+        flatten_directory(root_directory)
