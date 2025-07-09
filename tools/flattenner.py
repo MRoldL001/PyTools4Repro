@@ -41,7 +41,11 @@ if __name__ == "__main__":
         sys.exit(1)
 
     root_directory = sys.argv[1]
-    rm_dir = sys.argv[2]
+
+    rm_dir = "goodluckmyfriend"
+    if len(sys.argv) > 2:
+        rm_dir = sys.argv[2]
+
     if rm_dir == "-red":
         flatten_directory(root_directory, True)
     else:
