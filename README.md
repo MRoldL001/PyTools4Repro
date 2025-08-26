@@ -81,6 +81,8 @@ wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main/tools/flatte
 python flatten.py <文件夹路径> -red   # red 指 remove empty dir
 ```
 
+---
+
 ## 🖼️ img2png
 
 ### 🖐 用途
