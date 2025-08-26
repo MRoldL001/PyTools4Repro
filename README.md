@@ -96,5 +96,5 @@ A simple Python script that batch converts all JPG and WEBP images in the curren
 
 ```bash
 wget https://raw.githubusercontent.com/MRoldL001/PyTools4Repro/main/tools/img2png.py
-python .py
+python img2png.py
 ```
